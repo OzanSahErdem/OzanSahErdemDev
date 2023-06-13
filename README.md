@@ -1,5 +1,5 @@
 <h1 align="center">Welcome my github page! <br> <h2 align="center"> I am Ozan Şah Erdem</h2> 
-<h3 align="center">React&Javascript Developer <br> ★[IOS Developer]</h3>
+<h3 align="center">UIKit&Swift UI<br> ★[IOS Developer]</h3>
 
 - 📫 if you want to contact me:**ozanserdem.1604r@gmail.com**
 
